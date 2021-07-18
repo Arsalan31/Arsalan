@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arsalan31 
+- 👋 Hi, I’m @Arsalan
 - 👀 I’m interested in .NET Internship
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on future projects
