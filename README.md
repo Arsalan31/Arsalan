@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Arsalan
-- 👀 I’m interested in .NET Internship
-- 🌱 I’m currently learning MySqli
+- 👀 I’m interested in Wordpress and React Front-end
 - 💞️ I’m looking to collaborate on future projects
 - 📫 You can contact me on my mail: arslanplasticwala@gmail.com
 
